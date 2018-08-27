@@ -1,6 +1,5 @@
 {
   "routes": {
-    "/assets/*": "/assets/",
-    "/": "player.html"
+    "/*.html": "player.html"
   }
 }
