@@ -1,5 +1,3 @@
 {
-  "routes": {
-    "/*.html": "player.html"
-  }
+  "root": "dist/"
 }
